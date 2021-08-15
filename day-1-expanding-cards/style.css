@@ -53,7 +53,7 @@ body {
   position: absolute;
   display: flex;
   align-items: center;
-  bottom: 20px;
+  bottom: 0;
 }
 
 .footer img {
