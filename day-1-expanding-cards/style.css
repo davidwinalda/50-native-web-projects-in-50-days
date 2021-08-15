@@ -66,6 +66,10 @@ body {
     width: 100vw;
   }
 
+  .card {
+    height: 70vh;
+  }
+
   .card:nth-of-type(4), .card:nth-of-type(5) {
     display: none;
   }
