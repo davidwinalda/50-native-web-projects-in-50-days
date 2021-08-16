@@ -70,6 +70,7 @@ body {
 
 .progress-number.active {
   border-color: var(--line-border-fill);
+  transition: border 0.4s ease-in;
 }
 
 .btn {
